@@ -166,6 +166,7 @@
   {
     "context": "Pane",
     "bindings": {
+      "ctrl-shift-s": "pane::DeploySearch",
       "cmd-w": "editor::Copy",
       "ctrl-x 0": "pane::CloseActiveItem",
       "ctrl-x 1": "workspace::ToggleZoom",
